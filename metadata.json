@@ -1,7 +1,8 @@
 {
-  "name": "시간의 적체미를 이어주는 고미술의 시간",
-  "description": "황실 큐레이터와 AI가 협력하여 고미술품을 정밀 분석하고 디지털 감정서를 발급하는 프리미엄 서비스",
   "requestFramePermissions": [
-    "camera"
-  ]
+    "camera",
+    "microphone"
+  ],
+  "name": "",
+  "description": ""
 }
